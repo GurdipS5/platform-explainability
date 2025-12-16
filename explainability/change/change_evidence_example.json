@@ -1,0 +1,8 @@
+{
+  "change_id": "PR-142",
+  "tests": "passed",
+  "security_scan": "no_critical_findings",
+  "policy_compliance": "compliant",
+  "approver": "platform-team",
+  "timestamp": "2025-01-01T10:30:00Z"
+}

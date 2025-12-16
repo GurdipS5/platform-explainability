@@ -1,0 +1,10 @@
+{
+  "event": "scale_up",
+  "workload": "api-service",
+  "metric": "cpu",
+  "threshold": "75%",
+  "observed": "82%",
+  "replicas_before": 3,
+  "replicas_after": 6,
+  "timestamp": "2025-01-01T12:00:00Z"
+}

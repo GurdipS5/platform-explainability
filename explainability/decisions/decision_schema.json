@@ -1,0 +1,9 @@
+{
+  "decision_id": "string",
+  "timestamp": "iso8601",
+  "actor": "system|user",
+  "action": "deploy|scale|deny",
+  "outcome": "allowed|denied",
+  "reason": "string",
+  "evidence": ["string"]
+}
